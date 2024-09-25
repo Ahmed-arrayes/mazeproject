@@ -103,7 +103,3 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 <p align="center">
 <b align="center">📍This project is still a work in progress more detail on the project will be available in the future🍿📺🍿</b>
 
-## Author :black_nib:
-1. _[Mohammed Gamal](https://github.com/M0hammed-Gamal)
-2. _[Ahmed Samy](https://github.com/AhmedSamy98)
-
